@@ -1,0 +1,9 @@
+#sideInfo{
+  background: rgb(238,174,202);
+  background: linear-gradient(0deg, rgba(73,129,230,1) 0%, rgba(38,77,142,1) 100%);
+}
+
+.container{
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+}

@@ -1,0 +1,43 @@
+h1{
+    font-size: 4rem;
+}
+
+.Main{
+    background: linear-gradient(90deg, rgba(0,136,139,1) 17%, rgba(0,108,124,1) 100%);
+}
+
+.middle-parent{
+    border-bottom: 4px solid;
+    border-color: rgb(28, 119, 99);
+    width: 50%;
+}
+
+h3{
+    color: black;
+}
+
+.middle-main *{
+    color: black;
+}
+
+li{
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.ul{
+    width: 55rem;
+}
+
+.first{
+    font-size: 24px;
+}
+p{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+}

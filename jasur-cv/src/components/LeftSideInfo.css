@@ -1,0 +1,14 @@
+div * {
+    color: white;
+}
+
+span{
+    font-size: 22px;
+}
+h5{
+    margin-bottom: 0;
+}
+.img{
+    width: 20rem;
+    height: 20rem;
+}
