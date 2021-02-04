@@ -40,7 +40,7 @@ export default class Languages extends React.Component {
               </li>
               <li className="chart-bar mb-2" data-skill="50">
                 <span className="chart-bar-label d-flex justify-content-between">
-                <div className="pl-2 text-dark">Franch</div>
+                <div className="pl-2 text-dark">French</div>
                     <div className="pr-2">A1</div>
                 </span>
               </li>
