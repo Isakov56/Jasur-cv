@@ -62,7 +62,7 @@ export default class Main extends Component {
               <div className="my-4">
                 <h4>Bachelor of Global Humanities</h4>
                 <span className="first">
-                  University of La Sapienza (13-10-2020 to 31-05-2023)
+                  University of La Sapienza (13-09-2020 to 31-05-2023)
                 </span>
               </div>
               <div className="my-4">
