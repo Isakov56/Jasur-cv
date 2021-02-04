@@ -68,7 +68,7 @@ export default class Main extends Component {
               <div className="my-4">
                 <h4>Foundation Course</h4>
                 <span className="first d-flex">
-                  <p className="mr-3">University of Pisa, Pisa Italy (01-10-2019 to 06-07-2020)</p>
+                  <p className="mr-3">University of Pisa, Pisa Italy (01-09-2019 to 06-07-2020)</p>
                   <Button className="btn-primary d-flex align-items-center mt-1">
                       <a className="d-flex justify-content-center align-items-center" href="https://res.cloudinary.com/de6vmr2ma/image/upload/v1612134607/jasurCV/photo_2021-02-01_00-09-53_zaa3xh.jpg">
                       <svg
